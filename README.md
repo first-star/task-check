@@ -61,4 +61,5 @@ https://gyazo.com/271f9fa07010b01e9771c27aa7d80b37
 
 
 # DB設計 
-https://gyazo.com/698218509683a353d78d3007fa829ca6
+![](https://i.gyazo.com/102c23482e58bd7c15ea5067bb9026d9.png)
+
