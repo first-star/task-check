@@ -25,15 +25,15 @@ Trelloに似たタスク管理アプリ。タスクを細分化し管理でき�
   * 単体テスト  
 
     > モデル  
-      >> [ユーザー機能](https://github.com/first-star/task-check/blob/master/spec/models/user_spec.rb)  
-      >> [リスト機能](https://github.com/first-star/task-check/blob/master/spec/models/list_spec.rb)  
-      >> [カード機能](https://github.com/first-star/task-check/blob/master/spec/models/user_spec.rb)  
+      >> [ユーザー機能](https://github.com/first-star/task-check/blob/master/spec/models/user_spec.rb) 実装済み  
+      >> [リスト機能](https://github.com/first-star/task-check/blob/master/spec/models/list_spec.rb) 実装済み  
+      >> [カード機能](https://github.com/first-star/task-check/blob/master/spec/models/user_spec.rb) 実装済み  
 
   * 結合テスト  
 
-      > [ユーザー機能](https://github.com/first-star/task-check/blob/master/spec/system/users_spec.rb)  
-      > [リスト機能](https://github.com/first-star/task-check/blob/master/spec/system/lists_spec.rb)  
-      > [カード機能](https://github.com/first-star/task-check/blob/master/spec/system/cards_spec.rb)  
+      > [ユーザー機能](https://github.com/first-star/task-check/blob/master/spec/system/users_spec.rb) 実装済み  
+      > [リスト機能](https://github.com/first-star/task-check/blob/master/spec/system/lists_spec.rb) 実装済み  
+      > [カード機能](https://github.com/first-star/task-check/blob/master/spec/system/cards_spec.rb) 実装済み  
 
 
 <br>
