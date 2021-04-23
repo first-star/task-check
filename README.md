@@ -22,7 +22,8 @@ Trelloに似たタスク管理アプリ。タスクを細分化し管理でき�
 <br>
 
 # テストコード
-  * 単体テスト  <br>
+  * 単体テスト  
+
     > モデル  
       >> [ユーザー機能](https://github.com/first-star/task-check/blob/master/spec/models/user_spec.rb)  
       >> [リスト機能](https://github.com/first-star/task-check/blob/master/spec/models/list_spec.rb)  
